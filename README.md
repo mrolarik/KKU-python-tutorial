@@ -11,3 +11,6 @@
 
 ## Python Tutorial
 - [Python tutorial - อบรมวันแรก](https://github.com/mrolarik/KKU-python-tutorial/blob/master/tutorial_01.ipynb)
+
+## Basic Python
+- [basic python](https://github.com/mrolarik/basic-python)
