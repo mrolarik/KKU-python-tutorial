@@ -11,6 +11,7 @@
 
 ## Python Tutorial
 - [Python tutorial - อบรมวันแรก](https://github.com/mrolarik/KKU-python-tutorial/blob/master/tutorial_01.ipynb)
+- [Function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
 
 ## Basic Python
 - [basic python](https://github.com/mrolarik/basic-python)
