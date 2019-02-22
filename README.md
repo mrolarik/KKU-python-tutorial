@@ -11,6 +11,7 @@
 
 ## Python Tutorial
 - [Python tutorial - อบรมวันแรก](https://github.com/mrolarik/KKU-python-tutorial/blob/master/tutorial_01.ipynb)
+- [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 - [Function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
 
 ## Basic Python
