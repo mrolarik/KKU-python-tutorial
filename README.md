@@ -13,7 +13,8 @@
 - [variable](https://github.com/mrolarik/KKU-python-tutorial/blob/master/variable.ipynb)
 - [if condition](https://github.com/mrolarik/basic-python/blob/master/if-else-condition.ipynb)
 - [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
-- [Function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
+- [function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
+- [function: create menu](https://github.com/mrolarik/basic-python/blob/master/function_menu.ipynb)  
 
 ## Basic Python
 - [basic python](https://github.com/mrolarik/basic-python)
