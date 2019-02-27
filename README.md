@@ -11,11 +11,11 @@
 
 ## Python Tutorial
 - [ตัวแปร (variable)](https://github.com/mrolarik/KKU-python-tutorial/blob/master/variable.ipynb)
-- [if condition](https://github.com/mrolarik/basic-python/blob/master/if-else-condition.ipynb)
-- [list and for-loop](https://github.com/mrolarik/basic-python/blob/master/list_for_loop.ipynb)  
+- [เงื่อนไขแบบ if-else (if-else condition)](https://github.com/mrolarik/basic-python/blob/master/if-else-condition.ipynb)
+- [ตัวแปรประเภท list และการเข้าถึงข้อมูลใน list (list and index)](https://github.com/mrolarik/basic-python/blob/master/list_for_loop.ipynb)  
 - [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
-- [function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
-- [function: create menu](https://github.com/mrolarik/basic-python/blob/master/function_menu.ipynb)  
+- [ฟังก์ชัน (function)](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
+- [การใช้ฟังก์ชันในการสร้างเมนู (using function to create menu)](https://github.com/mrolarik/basic-python/blob/master/function_menu.ipynb)  
 
 ## Basic Python
 - [basic python](https://github.com/mrolarik/basic-python)
