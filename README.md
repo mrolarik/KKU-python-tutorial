@@ -12,6 +12,7 @@
 ## Python Tutorial
 - [variable](https://github.com/mrolarik/KKU-python-tutorial/blob/master/variable.ipynb)
 - [if condition](https://github.com/mrolarik/basic-python/blob/master/if-else-condition.ipynb)
+- [list and for-loop](https://github.com/mrolarik/basic-python/blob/master/list_for_loop.ipynb)  
 - [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 - [function](https://github.com/mrolarik/basic-python/blob/master/function-tutorial.ipynb)
 - [function: create menu](https://github.com/mrolarik/basic-python/blob/master/function_menu.ipynb)  
